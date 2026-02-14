@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "work-timer": {
+      "command": "node",
+      "args": ["/Users/david/mcp-projects/my-first-mcp/index.js"]
+    }
+  }
+}
